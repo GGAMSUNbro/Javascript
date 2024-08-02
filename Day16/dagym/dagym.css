@@ -1,0 +1,26 @@
+.container {
+  display: flex;
+  width: fit-content;
+  height: fit-content;
+}
+
+.inform {
+  display: flex;
+  flex-direction: column;
+}
+
+.tags {
+  position: relative;
+  top: 0px;
+}
+
+.review {
+  color: yellow;
+  width: fit-content;
+}
+
+.hasDailyItem {
+  gap: 100px;
+  position: relative;
+  bottom: 0px;
+}
